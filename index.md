@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-## Trong-Nguyen Nguyen
+## Trong N. Nguyen
 
 <img src="/assets/avatar.png" height="220px" border="1px" style="float: right; margin-left: 15px;">
 
