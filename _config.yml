@@ -1,0 +1,44 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Trong-Nguyen Nguyen
+email: ntnguyen.dn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My personal website that includes my full CV, selected publications, datasets for my PhD project and preliminary code for some works.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www-etud.iro.umontreal.ca/~nguyetn" # the base hostname & protocol for your site
+github_username:  nguyetn89
+
+
+author: Trong-Nguyen Nguyen
+linkedin: nguyetn3011
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+gems:
+  - jekyll-seo-tag
+
+# Google services
+#google_analytics: UA-88094985-1
+
+#kramdown:
+  # use Github Flavored Markdown
+#  input: GFM
+  # do not replace newlines by <br>s
+#  hard_wrap: false
+  # parse markdown inside block-level HTML tag
+#  parse_block_html: true
