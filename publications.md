@@ -70,4 +70,3 @@ Code available here: {% include icon-github.html username="nguyetn89/skeleton-AE
 6. *Extracting Silhouette-based Characteristics for Human Gait Analysis using One Camera*  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 [ACM Symposium on Information and Communication Technology, Vietnam (2014)](https://doi.org/10.1145/2676585.2676612)
-#{: reversed="reversed"}
