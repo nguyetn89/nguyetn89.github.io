@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications.html
-weight: 3
+weight: 2
 ---
 
 ## Publications
