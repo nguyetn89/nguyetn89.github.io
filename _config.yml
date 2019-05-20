@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Trong-Nguyen Nguyen
+title: Trong N. Nguyen
 email: ntnguyen.dn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My personal website that includes my full CV, selected publications, datasets for my PhD project and preliminary code for some works.
@@ -22,8 +22,8 @@ url: "http://www-etud.iro.umontreal.ca/~nguyetn" # the base hostname & protocol 
 github_username:  nguyetn89
 
 
-author: Trong-Nguyen Nguyen
-linkedin: nguyetn3011
+author: Trong N. Nguyen
+linkedin_username: nguyetn3011
 
 # Build settings
 markdown: kramdown
