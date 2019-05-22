@@ -14,7 +14,7 @@ I am a PhD candidate in Computer Science at the [Vision laboratory](http://www.i
 
 Although my project mainly focuses on gait analysis, I am diving into deep learning and its applications on natural data.
 
-My 3-page resume can be found [here](/assets/Nguyen_CV.pdf).
+My resume can be found [here](/assets/Nguyen_CV.pdf).
 
 My selected publications can be found on the [Publications](/publications.html) page.
 
