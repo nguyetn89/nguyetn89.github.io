@@ -40,7 +40,7 @@ IEEE Access, IEEE, 2018
 
 6. [*Skeleton-based Abnormal Gait Detection*](https://doi.org/10.3390/s16111792)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
-Sensors, MDPI, vol. 16, issue 11 (1792), 2016
+Sensors, MDPI, vol. 16, issue 11 (1792), 2016  
 Code available here: {% include icon-github.html username="nguyetn89/skeleton-HMM" %}.
 
 ### ***Conference paper***
