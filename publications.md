@@ -16,9 +16,9 @@ My ORCID ID is [0000-0002-9161-0116](https://orcid.org/0000-0002-9161-0116).
 
 ### ***Journal article***
 
-1. *Estimation of Gait Normality Index based on Point Clouds through Deep Auto-Encoder*  
+1. [*Estimation of Gait Normality Index based on Point Clouds through Deep Auto-Encoder*](https://doi.org/10.1186/s13640-019-0466-z)  
 **T. N. Nguyen**, J. Meunier  
-EURASIP Journal on Image and Video Processing, SpringerOpen, 2019 (Accepted)  
+EURASIP Journal on Image and Video Processing, SpringerOpen, 2019  
 Code available here: {% include icon-github.html username="nguyetn89/cylindrical-histogram-AEs" %}.
 
 2. [*Applying Adversarial Auto-encoder for Estimating Human Walking Gait Abnormality Index*](https://doi.org/10.1007/s10044-019-00790-7)  
