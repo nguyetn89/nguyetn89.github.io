@@ -45,28 +45,36 @@ Code available here: {% include icon-github.html username="nguyetn89/skeleton-HM
 
 ### ***Conference paper***
 
-1. [*Matching-based Depth Camera and Mirrors for 3D Reconstruction*](https://doi.org/10.1117/12.2304427)  
+1. [*Anomaly Detection in Video Sequence with Appearance-Motion Correspondence*](http://iccv2019.thecvf.com/) **(acceptance rate: 25%)**  
+**T. N. Nguyen**, J. Meunier  
+International Conference on Computer Vision (ICCV), Korea (2019)
+
+2. [*Hybrid Deep Network for Anomaly Detection*](https://bmvc2019.org/) **(spotlight, acceptance rate: 28%)**  
+**T. N. Nguyen**, J. Meunier  
+30th British Machine Vision Conference (BMVC), UK (2019)
+
+3. [*Matching-based Depth Camera and Mirrors for 3D Reconstruction*](https://doi.org/10.1117/12.2304427)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 SPIE 3D Imaging, Visualization, and Display, USA (2018)
 
-2. [*Assessment of Gait Normality using a Depth Camera and Mirrors*](https://doi.org/10.1109/BHI.2018.8333364)  
+4. [*Assessment of Gait Normality using a Depth Camera and Mirrors*](https://doi.org/10.1109/BHI.2018.8333364)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 IEEE Conf. on Biomedical and Health Informatics, USA (2018)
 
-3. [*Skeleton-based Gait Index Estimation with LSTMs*](https://doi.org/10.1109/ICIS.2018.8466522)  
+5. [*Skeleton-based Gait Index Estimation with LSTMs*](https://doi.org/10.1109/ICIS.2018.8466522)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 IEEE Int. Conf. on Computer and Information Science, Singapore (2018)  
 Code available here: {% include icon-github.html username="nguyetn89/skeleton-LSTMs" %}.
 
-4. [*Estimating Skeleton-Based Gait Abnormality Index by Sparse Deep Auto-Encoder*](https://doi.org/10.1109/CCE.2018.8465714)  
+6. [*Estimating Skeleton-Based Gait Abnormality Index by Sparse Deep Auto-Encoder*](https://doi.org/10.1109/CCE.2018.8465714)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 IEEE Int. Conf. on Communications and Electronics, Vietnam (2018)  
 Code available here: {% include icon-github.html username="nguyetn89/skeleton-AEs" %}.
 
-5. [*Geometry-based Static Hand Gesture Recognition using Support Vector Machine*](https://doi.org/10.1109/ICARCV.2014.7064401)  
+7. [*Geometry-based Static Hand Gesture Recognition using Support Vector Machine*](https://doi.org/10.1109/ICARCV.2014.7064401)  
 **T. N. Nguyen**, D. H. Vo, H. H. Huynh, J. Meunier  
 IEEE Int. Conf. on Control Automation Robotics & Vision, Singapore (2014)
 
-6. [*Extracting Silhouette-based Characteristics for Human Gait Analysis using One Camera*](https://doi.org/10.1145/2676585.2676612)  
+8. [*Extracting Silhouette-based Characteristics for Human Gait Analysis using One Camera*](https://doi.org/10.1145/2676585.2676612)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
 ACM Symposium on Information and Communication Technology, Vietnam (2014)
