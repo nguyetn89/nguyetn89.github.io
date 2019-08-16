@@ -45,11 +45,13 @@ Code available here: {% include icon-github.html username="nguyetn89/skeleton-HM
 
 ### ***Conference paper***
 
-1. [*Anomaly Detection in Video Sequence with Appearance-Motion Correspondence*](http://iccv2019.thecvf.com/) **(acceptance rate: 25%)**  
+1. [*Anomaly Detection in Video Sequence with Appearance-Motion Correspondence*](http://iccv2019.thecvf.com/)  
+**(acceptance rate: 25%)**  
 **T. N. Nguyen**, J. Meunier  
-International Conference on Computer Vision (ICCV), Korea (2019)
+IEEE/CVF International Conference on Computer Vision (ICCV), Korea (2019)
 
-2. [*Hybrid Deep Network for Anomaly Detection*](https://bmvc2019.org/) **(spotlight, acceptance rate: 28%)**  
+2. [*Hybrid Deep Network for Anomaly Detection*](https://bmvc2019.org/)  
+**(spotlight, acceptance rate: 28%)**  
 **T. N. Nguyen**, J. Meunier  
 30th British Machine Vision Conference (BMVC), UK (2019)
 
