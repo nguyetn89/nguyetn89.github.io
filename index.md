@@ -10,12 +10,10 @@ weight: 1
 
 <img src="/assets/avatar.png" height="220px" border="1px" style="float: right; margin-left: 15px;">
 
-I am a PhD candidate in Computer Science at the [Vision laboratory](http://www.iro.umontreal.ca/~labimage/) at the University of Montreal since September 2015. My PhD program, that is supervised by [Prof. Jean Meunier](http://www-labs.iro.umontreal.ca/~meunier/), is expected to complete in Fall 2019.
-
-Although my project mainly focuses on gait analysis, I am diving into deep learning and its applications on natural data.
+I am currently a postdoctoral researcher in the [3D Vision laboratory](https://v3d.openum.ca/) (DIRO, University of Montreal) under the mentoring of [Prof. Sébastien Roy](https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14484/sg/S%C3%A9bastien%20Roy/). I was a PhD candidate in the [Image Processing laboratory](http://www.iro.umontreal.ca/~labimage/) under the supervision of [Prof. Jean Meunier](https://diro.umontreal.ca/english/departement-directory/visiting-scholarsadjunct-professors/professor/in/in13785/sg/Jean%20Meunier/) in the same institution. My working projects focus on deep learning and anomaly detection supporting healthcare systems.
 
 My resume can be found [here](/assets/Nguyen_CV.pdf).
 
-My selected publications can be found on the [Publications](/publications.html) page.
+Some selected publications are listed on the [Publications](/publications.html) page.
 
-Datasets used in my PhD project can be found on the [Datasets](/datasets.html) page.
+Datasets used in my PhD project are instroduced on the [Datasets](/datasets.html) page.
