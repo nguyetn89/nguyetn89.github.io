@@ -7,7 +7,7 @@ weight: 2
 
 ## Publications
 
-Please find below a list of my selected scientific publications (the full list can be found in [my resume](/assets/Nguyen_CV.pdf)). 
+Please find below a list of my selected scientific publications (the full list can be found in [my resume](/assets/Nguyen_resume_04Aug.pdf)). 
 
 My ORCID ID is [0000-0002-9161-0116](https://orcid.org/0000-0002-9161-0116). 
 
@@ -48,12 +48,14 @@ Code available here: {% include icon-github.html username="nguyetn89/skeleton-HM
 1. [*Anomaly Detection in Video Sequence with Appearance-Motion Correspondence*](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.html)  
 **(acceptance rate: 25%)**  
 **T. N. Nguyen**, J. Meunier  
-IEEE/CVF International Conference on Computer Vision (ICCV), Korea (2019)
+IEEE/CVF International Conference on Computer Vision (ICCV), Korea (2019)  
+Code available here: {% include icon-github.html username="nguyetn89/Anomaly_detection_ICCV2019" %}.
 
 2. [*Hybrid Deep Network for Anomaly Detection*](https://bmvc2019.org/wp-content/uploads/papers/0726-paper.pdf)  
 **(spotlight, acceptance rate: 28%)**  
 **T. N. Nguyen**, J. Meunier  
-30th British Machine Vision Conference (BMVC), UK (2019)
+30th British Machine Vision Conference (BMVC), UK (2019)  
+Code available here: {% include icon-github.html username="nguyetn89/Anomaly_detection_BMVC2019" %}.
 
 3. [*Matching-based Depth Camera and Mirrors for 3D Reconstruction*](https://doi.org/10.1117/12.2304427)  
 **T. N. Nguyen**, H. H. Huynh, J. Meunier  
