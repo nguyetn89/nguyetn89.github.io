@@ -7,7 +7,7 @@ weight: 2
 
 ## Publications
 
-Please find below a list of my selected scientific publications (the full list can be found in [my resume](/assets/Nguyen_resume_04Aug.pdf)). 
+Please find below a list of my selected scientific publications (the full list can be found in [my resume](/assets/Nguyen_Resume.pdf)). 
 
 My ORCID ID is [0000-0002-9161-0116](https://orcid.org/0000-0002-9161-0116). 
 
